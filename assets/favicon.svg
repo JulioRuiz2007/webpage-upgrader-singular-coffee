@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#354477"/>
+  <!-- Mascot bear -->
+  <g transform="translate(20, 14)">
+    <!-- Head -->
+    <circle cx="14" cy="10" r="9" fill="#fff"/>
+    <!-- Ears -->
+    <circle cx="7" cy="3" r="3.5" fill="#fff"/>
+    <circle cx="21" cy="3" r="3.5" fill="#fff"/>
+    <!-- Body -->
+    <ellipse cx="14" cy="26" rx="9" ry="11" fill="#fff"/>
+    <!-- Right arm -->
+    <ellipse cx="24" cy="22" rx="4" ry="3" transform="rotate(-25, 24, 22)" fill="#fff"/>
+    <!-- Eyes -->
+    <circle cx="11" cy="10" r="1.5" fill="#354477"/>
+    <circle cx="17" cy="10" r="1.5" fill="#354477"/>
+  </g>
+  <!-- Heart -->
+  <path d="M28 36 C27 33.5, 23.5 33.5, 23.5 36 C23.5 39, 28 42, 28 42 C28 42, 32.5 39, 32.5 36 C32.5 33.5, 29 33.5, 28 36Z" fill="#E53935"/>
+</svg>
